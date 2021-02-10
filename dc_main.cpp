@@ -220,7 +220,7 @@ void DC_Main()	{
 	}
 
 	DC_CLS();
-	DC_DrawString(4, 1, "Wolf4SDL\\DC 1.5");
+	DC_DrawString(4, 1, "Wolf4SDL\\DC 1.7");
 	DC_DrawString(4, 6, "Please insert your Wolfenstein 3D CD");
 	DC_DrawString(4, 7, "and press start.");
 
