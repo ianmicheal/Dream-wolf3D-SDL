@@ -10,6 +10,7 @@ and DMA hardware scaling Driver
 Update to new src base
 ADDED correct headers for building with chui's custom sdl version plus the changes i needed to do
 to fix all controls they dont work with normal chui version for dreamcast
+# Plainfiles and CDI included ready to burn to a cdr for dreamcast.
 # By Cyle Terry
 1.6 <October 04, 2008>
 - Getting the DC port up-to-date
