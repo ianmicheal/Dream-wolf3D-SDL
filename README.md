@@ -7,8 +7,29 @@ Compiled for wolf3D fullversion
 Fast hardware scaling 640x400 on hardware DMA driver SDL
 Src now builds on kos1.3 included custom SDL with fixed controls 
 and DMA hardware scaling Driver 
+Update to new src base
+ADDED correct headers for building with chui's custom sdl version plus the changes i needed to do
+to fix all controls they dont work with normal chui version for dreamcast
+# By Cyle Terry
+1.6 <October 04, 2008>
+- Getting the DC port up-to-date
 
+1.5 <May 25, 2008>
+- Mouse support
+- Weapon switch support
+- Controllers with C & Z button support
+- Command line parameters via 'params.txt' support
+- SOD mission pack support via menu
+- Commercial CD-ROM swap support
 
+Credits & Thanks:
+- OneThiryt8 for which parts of this port was based on his port, sdlWolf
+- BlueCrab who wrote parts of the swap disc menu
+- BlackAura for his menu code from nxDoom
+- Ripper for such a clean and friendly Wolfenstein 3D engine
+- Bero for the Dreamcast port of SDL, which this port uses
+-Chui for custom Dma and SDL
+- Dan Potter and team for KOS, which this port uses
 
 
 Wolf4SDL by Moritz "Ripper" Kroll (http://www.chaos-software.de.vu - OFFLINE)
